@@ -31,3 +31,7 @@ div.blue {
   border-radius: 0;
   background-color: white;
 }
+
+div.green {
+  background-color: green;
+}
