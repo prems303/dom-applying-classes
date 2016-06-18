@@ -21,17 +21,6 @@ div.blue {
   background-color: blue;
 }
 
-.invisible {
-  display: none;
-}
-
-.visible {
-  display: block;
-  border: 3px black dashed;
-  border-radius: 0;
-  background-color: white;
-}
-
 div.green {
   background-color: green;
 }
@@ -40,3 +29,13 @@ div.yellow {
   background-color: yellow;
 }
 
+.invisible {
+  display: none;
+}
+
+.visible {
+  display: block;
+  border: 5px black dashed;
+  border-radius: 0;
+  background-color: white;
+}
